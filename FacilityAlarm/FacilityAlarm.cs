@@ -339,7 +339,6 @@ public class FacilityAlarm : ICommand
         foreach (var room in Room.List)
             room.Color = Color.black;
     }
-    
     private static IEnumerator<float> AlarmLightBreathing(Color baseColor, float period)
     {
         float elapsed = 0f;
