@@ -21,9 +21,9 @@ Es ermöglicht Administrator:innen, akustische Warnungen, Codes und visuelle Ala
   - Atmungseffekt (Farbintensität wechselt alle 2 Sekunden).  
 
 - **Hilfefunktion**  
-  - `falarm help alarm` → zeigt Alarme und Syntax.  
-  - `falarm help code` → listet verfügbare Codes.  
-  - `falarm help alarmlight` → zeigt Lichtoptionen.  
+  - `falarm help alarm` -> zeigt Alarme und Syntax.  
+  - `falarm help code` -> listet verfügbare Codes.  
+  - `falarm help alarmlight` -> zeigt Lichtoptionen.  
 
 ---
 
