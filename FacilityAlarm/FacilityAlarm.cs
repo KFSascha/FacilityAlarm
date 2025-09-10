@@ -8,7 +8,7 @@ using Exiled.API.Features;
 using Extensions;
 using MEC;
 using UnityEngine;
-
+//
 [CommandHandler(typeof(RemoteAdminCommandHandler))]
 public class FacilityAlarm : ICommand
 {
